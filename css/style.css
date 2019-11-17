@@ -1,0 +1,22 @@
+body{
+    background-color:red;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    font: weight 400;
+}
+/*0100*/
+header{
+ background-color: rgba(0,0,255);
+}
+/*0001*/
+.header{
+   background-color: rgba(0,255,255);
+}
+/*0010*/
+#header{
+    background-color:yellowgreen;
+
+}
+
+
